@@ -1,4 +1,4 @@
-**550** commits in the last 6 months.
+<sub>**550** commits in the last 6 months.</sub>
 
 ### Hi there 👋
 
