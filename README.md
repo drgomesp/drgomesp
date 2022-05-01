@@ -1,3 +1,5 @@
+**550** commits in the last 6 months.
+
 ### Hi there 👋
 
 ⚡ Newest projects:
@@ -10,3 +12,4 @@
 [drgomesp/tokenmart](https://github.com/drgomesp/tokenmart) An experimental NFT Marketplace<br/>
 [drgomesp/romulus](https://github.com/drgomesp/romulus) Modern RO server emulator<br/>
 [drgomesp/blockchain-prototype](https://github.com/drgomesp/blockchain-prototype) A new Blockchain platform<br/>
+
