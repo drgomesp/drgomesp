@@ -1,15 +1,1 @@
-<sub>~**550** commits in the last 6 months.</sub>
-
-### Hi there 👋
-
-⚡ Newest projects:
-
-[drgomesp/githubpal](https://github.com/drgomesp/githubpal) Hey pal, could you help me with some routine Github(c) tasks?<br/>
-[drgomesp/scaffold-go](https://github.com/drgomesp/scaffold-go) Tiny bootstrap for Go applications.<br/>
-[drgomesp/peerforge](https://github.com/drgomesp/peerforge) A P2P protocol for code collaboration<br/>
-[drgomesp/ethos](https://github.com/drgomesp/ethos) :hammer_and_wrench: An agency-increasing toolkit for Ethereum developers.<br/>
-[drgomesp/execcutor](https://github.com/drgomesp/execcutor) A tiny execution wrapper for programs that run safely and shutdown gracefully<br/>
-[drgomesp/tokenmart](https://github.com/drgomesp/tokenmart) An experimental NFT Marketplace<br/>
-[drgomesp/romulus](https://github.com/drgomesp/romulus) Modern RO server emulator<br/>
-[drgomesp/blockchain-prototype](https://github.com/drgomesp/blockchain-prototype) A new Blockchain platform<br/>
-
+CjxzdWI+Kip+Nzc3KiogY29tbWl0cyBpbiB0aGUgbGFzdCA2IG1vbnRocy48L3N1Yj4KCiMjIyBIaSB0aGVyZSDwn5GLCgrimqEgTmV3ZXN0IHByb2plY3RzOgoKW2RyZ29tZXNwL2dpdGh1YnBhbF0oaHR0cHM6Ly9naXRodWIuY29tL2RyZ29tZXNwL2dpdGh1YnBhbCkgSGV5IHBhbCwgY291bGQgeW91IGhlbHAgbWUgd2l0aCBzb21lIHJvdXRpbmUgR2l0aHViKGMpIHRhc2tzPzxici8+CltkcmdvbWVzcC9zY2FmZm9sZC1nb10oaHR0cHM6Ly9naXRodWIuY29tL2RyZ29tZXNwL3NjYWZmb2xkLWdvKSBUaW55IGJvb3RzdHJhcCBmb3IgR28gYXBwbGljYXRpb25zLjxici8+CltkcmdvbWVzcC9wZWVyZm9yZ2VdKGh0dHBzOi8vZ2l0aHViLmNvbS9kcmdvbWVzcC9wZWVyZm9yZ2UpIEEgUDJQIHByb3RvY29sIGZvciBjb2RlIGNvbGxhYm9yYXRpb248YnIvPgpbZHJnb21lc3AvZXRob3NdKGh0dHBzOi8vZ2l0aHViLmNvbS9kcmdvbWVzcC9ldGhvcykgOmhhbW1lcl9hbmRfd3JlbmNoOiBBbiBhZ2VuY3ktaW5jcmVhc2luZyB0b29sa2l0IGZvciBFdGhlcmV1bSBkZXZlbG9wZXJzLjxici8+CltkcmdvbWVzcC9leGVjY3V0b3JdKGh0dHBzOi8vZ2l0aHViLmNvbS9kcmdvbWVzcC9leGVjY3V0b3IpIEEgdGlueSBleGVjdXRpb24gd3JhcHBlciBmb3IgcHJvZ3JhbXMgdGhhdCBydW4gc2FmZWx5IGFuZCBzaHV0ZG93biBncmFjZWZ1bGx5PGJyLz4KW2RyZ29tZXNwL3Rva2VubWFydF0oaHR0cHM6Ly9naXRodWIuY29tL2RyZ29tZXNwL3Rva2VubWFydCkgQW4gZXhwZXJpbWVudGFsIE5GVCBNYXJrZXRwbGFjZTxici8+CltkcmdvbWVzcC9yb211bHVzXShodHRwczovL2dpdGh1Yi5jb20vZHJnb21lc3Avcm9tdWx1cykgTW9kZXJuIFJPIHNlcnZlciBlbXVsYXRvcjxici8+CltkcmdvbWVzcC9ibG9ja2NoYWluLXByb3RvdHlwZV0oaHR0cHM6Ly9naXRodWIuY29tL2RyZ29tZXNwL2Jsb2NrY2hhaW4tcHJvdG90eXBlKSBBIG5ldyBCbG9ja2NoYWluIHBsYXRmb3JtPGJyLz4KCg==
