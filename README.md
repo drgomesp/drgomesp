@@ -1,5 +1,5 @@
 
-🌡️ <sub>**~793** commits in the last 6 months.</sub>
+🌡️ **~795** commits in the last 6 months.
 
 ### Hi there 👋
 
