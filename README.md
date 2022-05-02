@@ -5,7 +5,7 @@ I'm Daniel, a self-taught programmer who likes to build things from scratch in o
 
 🌡️ **801** commits in the last 6 months.
 
-⚡ Newest projects:
+#### ⚡ Newest projects:
 
 [ **[githubpal](https://github.com/drgomesp/githubpal)** ] 👷🏽 Hey pal, could you help me with some routine Github(c) tasks?<br/>
 [ **[scaffold-go](https://github.com/drgomesp/scaffold-go)** ] Tiny bootstrap for Go applications.<br/>
