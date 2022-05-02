@@ -1,11 +1,11 @@
 
-<sub>**~790** commits in the last 6 months.</sub>
+<sub>**~791** commits in the last 6 months.</sub>
 
 ### Hi there 👋
 
 ⚡ Newest projects:
 
-[drgomesp/githubpal](https://github.com/drgomesp/githubpal) Hey pal, could you help me with some routine Github(c) tasks?<br/>
+[drgomesp/githubpal](https://github.com/drgomesp/githubpal) 👷🏽 Hey pal, could you help me with some routine Github(c) tasks?<br/>
 [drgomesp/scaffold-go](https://github.com/drgomesp/scaffold-go) Tiny bootstrap for Go applications.<br/>
 [drgomesp/peerforge](https://github.com/drgomesp/peerforge) A P2P protocol for code collaboration<br/>
 [drgomesp/ethos](https://github.com/drgomesp/ethos) :hammer_and_wrench: An agency-increasing toolkit for Ethereum developers.<br/>
