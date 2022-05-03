@@ -1,10 +1,12 @@
 ### Daniel Ribeiro
 >  "What I cannot create, I do not understand" — Richard Feynman
 
-👋 Hey there! I'm Daniel, a self-taught programmer who likes to build things from 
-scratch in order to understand how they work.
+👋 Hey there! I'm Daniel, a self-taught programmer who likes to build things from scratch
+in order to understand how they work. Some topics of interest to me are network
+protocols, hardware emulation, compilers, game engines, graphics, decentralized 
+technology, just to name a few.
 
-🌡️ **821** commits in the last 6 months.
+🌡️ **822** commits in the last 6 months.
 
 ⚡ **Newest projects:**
 
