@@ -6,7 +6,7 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **822** commits in the last 6 months.
+🌡️ **787** commits in the last 6 months.
 
 ⚡ **Newest projects:**
 
@@ -19,3 +19,7 @@ technology, just to name a few.
 - **[drgomesp/tokenmart](https://github.com/drgomesp/tokenmart)** An experimental NFT Marketplace<br/>
 - **[drgomesp/romulus](https://github.com/drgomesp/romulus)** Modern RO server emulator<br/>
 
+
+~ [drgomesp.dev][2]
+
+[2]: https://drgomesp.dev
