@@ -2,9 +2,9 @@
 
 I'm Daniel, a self-taught programmer who likes to build things from scratch in order to understand how they work.
 
-🌡️ **817** commits in the last 6 months.
+🌡️ **818** commits in the last 6 months.
 
-⚡ Newest projects:
+⚡ **Newest projects:**
 
 - **[ **[drgomesp/etherspy](https://github.com/drgomesp/etherspy)** ]** A network utility for Ethereum protocols<br/>
 - **[ **[drgomesp/githubpal](https://github.com/drgomesp/githubpal)** ]** 👷🏽 Hey pal, could you help me with some routine Github(c) tasks?<br/>
