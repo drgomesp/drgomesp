@@ -6,11 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **828** commits in the last 6 months.
+🌡️ **830** commits in the last 6 months.
 
 ### ⚡ Newest projects:
 
-- **[drgomesp/etherspy](https://github.com/drgomesp/etherspy)** A network utility for Ethereum protocols<br/>
+- **[drgomesp/etherspy](https://github.com/drgomesp/etherspy)** 🧪 A network utility for Ethereum protocols<br/>
 - **[drgomesp/githubpal](https://github.com/drgomesp/githubpal)** 👷🏽 Hey pal, could you help me with some routine Github(c) tasks?<br/>
 - **[drgomesp/scaffold-go](https://github.com/drgomesp/scaffold-go)** Tiny bootstrap for Go applications.<br/>
 - **[drgomesp/peerforge](https://github.com/drgomesp/peerforge)** A P2P protocol for code collaboration<br/>
