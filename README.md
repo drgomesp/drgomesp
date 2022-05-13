@@ -6,11 +6,12 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **360** commits in the last 16 weeks.
+🌡️ **367** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
-- **[drgomesp/ragnatools](https://github.com/drgomesp/ragnatools)** A developer toolkit for RO lovers.<br/>
+- **[drgomesp/citysim](https://github.com/drgomesp/citysim)** <br/>
+- **[drgomesp/ragnatools](https://github.com/drgomesp/ragnatools)** A developer toolkit for RO lovers<br/>
 - **[drgomesp/bitbeats](https://github.com/drgomesp/bitbeats)** 🎧 Making music beats with code <br/>
 - **[drgomesp/etherspy](https://github.com/drgomesp/etherspy)** 🧪 A network utility for Ethereum protocols<br/>
 - **[drgomesp/githubpal](https://github.com/drgomesp/githubpal)** :gear: Routine Github task automation for my own stuff<br/>
