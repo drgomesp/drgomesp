@@ -6,7 +6,7 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **374** commits in the last 16 weeks.
+🌡️ **426** commits in the last 16 weeks.
 
 ### ⚡ Newest projects:
 
@@ -19,7 +19,6 @@ technology, just to name a few.
 - **[drgomesp/peerforge](https://github.com/drgomesp/peerforge)** 📡 A P2P protocol for code collaboration<br/>
 - **[drgomesp/ethos](https://github.com/drgomesp/ethos)** :hammer_and_wrench: An agency-increasing toolkit for Ethereum developers<br/>
 - **[drgomesp/execcutor](https://github.com/drgomesp/execcutor)** 🪤 A tiny execution wrapper for programs that run safely and shutdown gracefully<br/>
-- **[drgomesp/tokenmart](https://github.com/drgomesp/tokenmart)** 🛒 An experimental NFT Marketplace<br/>
 
 
 ~ [drgomesp.dev][2]
