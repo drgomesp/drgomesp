@@ -10,7 +10,6 @@ technology, just to name a few.
 
 ### ⚡ Newest projects:
 
-- **[drgomesp/citysim](https://github.com/drgomesp/citysim)** <br/>
 - **[drgomesp/ragnatools](https://github.com/drgomesp/ragnatools)** A developer toolkit for RO lovers<br/>
 - **[drgomesp/bitbeats](https://github.com/drgomesp/bitbeats)** 🎧 Making music beats with code <br/>
 - **[drgomesp/etherspy](https://github.com/drgomesp/etherspy)** 🧪 A network utility for Ethereum protocols<br/>
