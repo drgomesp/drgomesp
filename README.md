@@ -10,7 +10,7 @@ technology, just to name a few.
 
 ### ⚡ Newest projects:
 
-- **[drgomesp/go-libp2p-hostinfo](https://github.com/drgomesp/go-libp2p-hostinfo)** A lightweight libp2p host service that exposes general information about the host and the network.<br/>
+- **[drgomesp/go-libp2p-hostinfo](https://github.com/drgomesp/go-libp2p-hostinfo)** A lightweight libp2p service that exposes information about the host and the network.<br/>
 - **[drgomesp/go-libp2p-grpc](https://github.com/drgomesp/go-libp2p-grpc)** ⚙ gRPC/Protobuf on Libp2p with gRPC-Gateway support<br/>
 - **[drgomesp/decentralize](https://github.com/drgomesp/decentralize)** My own reference and study guide for decentralized technologies<br/>
 - **[drgomesp/git-remote-go](https://github.com/drgomesp/git-remote-go)** Git remote helper library to implement custom Git protocols<br/>
