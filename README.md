@@ -6,10 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **571** commits in the last 16 weeks.
+🌡️ **549** commits in the last 24 weeks.
 
 ### ⚡ Newest projects:
 
+- **[drgomesp/go-libp2p-hostinfo](https://github.com/drgomesp/go-libp2p-hostinfo)** A lightweight libp2p host service that exposes general information about the host and the network.<br/>
 - **[drgomesp/go-libp2p-grpc](https://github.com/drgomesp/go-libp2p-grpc)** ⚙ gRPC/Protobuf on Libp2p with gRPC-Gateway support<br/>
 - **[drgomesp/decentralize](https://github.com/drgomesp/decentralize)** My own reference and study guide for decentralized technologies<br/>
 - **[drgomesp/git-remote-go](https://github.com/drgomesp/git-remote-go)** Git remote helper library to implement custom Git protocols<br/>
@@ -20,7 +21,6 @@ technology, just to name a few.
 - **[drgomesp/ethos](https://github.com/drgomesp/ethos)** :hammer_and_wrench: An agency-increasing toolkit for Ethereum developers<br/>
 - **[drgomesp/execcutor](https://github.com/drgomesp/execcutor)** 🪤 A tiny execution wrapper for programs that run safely and shutdown gracefully<br/>
 - **[drgomesp/tokenmart](https://github.com/drgomesp/tokenmart)** 🛒 An experimental NFT Marketplace<br/>
-- **[drgomesp/romulus](https://github.com/drgomesp/romulus)** ⚙️ Modern RO server emulator<br/>
 
 
 ~ [drgomesp.dev][2]
