@@ -6,11 +6,11 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **547** commits in the last 24 weeks.
+🌡️ **549** commits in the last 24 weeks.
 
 ### ⚡ Newest projects:
 
-- **[drgomesp/go-libp2p-pinghttp](https://github.com/drgomesp/go-libp2p-pinghttp)** <br/>
+- **[drgomesp/go-libp2p-pinghttp](https://github.com/drgomesp/go-libp2p-pinghttp)** Expose a Libp2p host's Ping service through HTTP<br/>
 - **[drgomesp/go-libp2p-hostinfo](https://github.com/drgomesp/go-libp2p-hostinfo)** A lightweight libp2p service that exposes information about the host and the network.<br/>
 - **[drgomesp/go-libp2p-grpc](https://github.com/drgomesp/go-libp2p-grpc)** ⚙ gRPC/Protobuf on Libp2p with gRPC-Gateway support<br/>
 - **[drgomesp/decentralize](https://github.com/drgomesp/decentralize)** My own reference and study guide for decentralized technologies<br/>
