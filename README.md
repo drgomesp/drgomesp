@@ -17,9 +17,6 @@ technology, just to name a few.
 - **[drgomesp/githubpal](https://github.com/drgomesp/githubpal)** :gear: Routine Github task automation for my own stuff<br/>
 - **[drgomesp/scaffold-go](https://github.com/drgomesp/scaffold-go)** 🪜 Tiny bootstrap for Go applications.<br/>
 - **[drgomesp/peerforge](https://github.com/drgomesp/peerforge)** 📡 A P2P protocol for code collaboration<br/>
-- **[drgomesp/ethos](https://github.com/drgomesp/ethos)** :hammer_and_wrench: An agency-increasing toolkit for Ethereum developers<br/>
-- **[drgomesp/execcutor](https://github.com/drgomesp/execcutor)** 🪤 A tiny execution wrapper for programs that run safely and shutdown gracefully<br/>
-
 
 ~ [drgomesp.dev][2]
 
