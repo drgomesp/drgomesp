@@ -6,8 +6,6 @@ in order to understand how they work. Some topics of interest to me are network
 protocols, hardware emulation, compilers, game engines, graphics, decentralized 
 technology, just to name a few.
 
-🌡️ **549** commits in the last 24 weeks.
-
 ### ⚡ Newest projects:
 
 - **[drgomesp/go-libp2p-grpc](https://github.com/drgomesp/go-libp2p-grpc)** ⚙ gRPC/Protobuf on Libp2p with gRPC-Gateway support<br/>
